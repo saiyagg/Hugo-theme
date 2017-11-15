@@ -1,4 +1,4 @@
-theme = "global"
+theme = "single"
 baseURL = "/"
 languageCode = "en-us"
 title = "My New Hugo Site"
